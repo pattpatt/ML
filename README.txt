@@ -1,10 +1,10 @@
-## Instructions for Assignment 3 Unsupervised Algorithms
+## Instructions for Assignment 4 Markov
 
 This assignment was built using jupyter notebooks.
 To run the notebook, please go to https://github.com/pattpatt/ML
-and download the folder assignment3
+and download the folder assignment4
 
-Inside the assignment3 folder, execute jupyter with the following command and open the notebook:
+Inside the assignment4 folder, execute jupyter with the following command and open the notebook:
 * jupyter notebook
 
 The requirements are listed in requirements.txt 

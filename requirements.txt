@@ -9,4 +9,6 @@ dependencies:
   - seaborn=0.9
   - tensorflow
   - math
+- gym
+- mdptoolbox
  
